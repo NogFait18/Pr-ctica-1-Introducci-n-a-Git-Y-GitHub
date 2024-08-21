@@ -1,1 +1,1 @@
-# Practica-1-Introducci-n-a-Git-Y-GitHub
+# Practica-1-Introduccion-a-Git-Y-GitHub
